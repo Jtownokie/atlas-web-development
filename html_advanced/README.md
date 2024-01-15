@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://www.atlasschool.com/">
-    <img src="./atlas-design-image.jpg" alt="Logo" width="300" height="300">
+    <img src="./atlas-design-image.jpg" alt="Logo" width="500" height="1000">
   </a>
 
 <!-- TABLE OF CONTENTS -->
