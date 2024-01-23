@@ -1,0 +1,52 @@
+/* This document contains all styling for the CSS Advanced Project */
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('../styles/SourceSansPro-Regular.otf') format('opentype');
+}
+
+html {
+  font-family: 'Source Sans Pro';
+}
+main {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 3718px;
+  
+}
+
+header {
+  display: flex;
+}
+
+.topbar-container {
+  display: flex;
+  width: 1103.408px;
+  height: 29.461px;
+  flex-shrink: 0;
+}
+
+.main-banner-container {
+  display: flex;
+  flex-direction: column;
+  width: 1448.15px;
+  height: 1055px;
+  flex-shrink: 0;
+  background: radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.00) 0%, #071629 100%), 
+  url("../images/smile-school-background.png"), lightgray 0px 0px / 100% 100% no-repeat;
+}
+
+.main-title-container h1 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Source Sans Pro";
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.pro-container {
+  display: flex;
+}
